@@ -1,3 +1,10 @@
+Efter megen hjælp fik jeg en front-end der burde virke. Jeg fik dog aldrig min backend til at virke igen. Jeg var meget i tvivl om hvordan jeg skulle gøre backend klar til at modtage graphql. Jeg synes resolvers ser korrekte ud, men mit schema brokker sig når jeg prøver at starte det. Det virkede i starten.. Her er et link til den modificerede backend:
+
+https://github.com/Anders1333/miniProjectApollo
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
